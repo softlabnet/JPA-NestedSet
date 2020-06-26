@@ -1,0 +1,12 @@
+org/pkaboo/jpa/nestedset/annotations/LeftColumn.class
+org/pkaboo/jpa/nestedset/annotations/RootColumn.class
+org/pkaboo/jpa/nestedset/NodeInfo.class
+org/pkaboo/jpa/nestedset/TreeView.class
+org/pkaboo/jpa/nestedset/Node.class
+org/pkaboo/jpa/nestedset/JpaNestedSetManager.class
+org/pkaboo/jpa/nestedset/Key.class
+org/pkaboo/jpa/nestedset/annotations/LevelColumn.class
+org/pkaboo/jpa/nestedset/NestedSetManager.class
+org/pkaboo/jpa/nestedset/JpaNode.class
+org/pkaboo/jpa/nestedset/annotations/RightColumn.class
+org/pkaboo/jpa/nestedset/Configuration.class
